@@ -1,4 +1,4 @@
-# 2-Unlimited Team Charter
+# Team Charter
 
 ## Stay aware. Adapt. Change.
 
@@ -34,6 +34,39 @@ If everyone on the team chooses to focus on what's important to the team, what i
 - Respect:
 
   No one is intrinsically worth more than anyone else. The contributions of each person on the team need to be respected. I am important and so are you.
+
+  ## Principles
+
+- Humanity
+- Economics
+- Mutual Benefit
+- Self-similarity
+- Improvement
+- Diversity
+- Reflection
+- Flow
+- Opportunity
+- Redundancy
+- Failure
+- Quality
+- Baby Steps
+- Accepted Responsability
+
+## Practices 
+
+- Sit together
+- Whole team
+- Informative Workspace
+- Energized work
+- Pair programming
+- Stories
+- Sprints
+- Slack
+- Continuous Integration
+- TDD
+- Incremental Design
+- Customer Involvement
+- Root-Cause Analysis
 
 ## License
 
