@@ -193,6 +193,10 @@ Develop in an open space big enough for the whole team. Meet the need for privac
 
   Put new software into production as soon as possible.
 
+## The Theory of Constraints
+
+The Theory of Constraints says that in any system there is one constraint at a time (occasionally two). To improve overall system throughput you have to first find the constraint; make sure it is working full speed; then find ways of either increasing the capacity of the constraint, offloading some of the work onto non-constraints, or eliminating the constraint entirely.
+
 ## License
 
 The Team Charter is licensed under the [MIT License](LICENSE).
