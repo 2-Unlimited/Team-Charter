@@ -109,4 +109,4 @@ Bridging the gap between values and practices are principles. Principles are a s
 
 ## License
 
-The 2-Unlimited Team Charter is licensed under the [MIT License](LICENSE).
+The Team Charter is licensed under the [MIT License](LICENSE).
