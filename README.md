@@ -1,12 +1,9 @@
-# Team Charter
+# Summary: Extreme Programming Explained
 
 ## Stay aware. Adapt. Change.
 
 ## Resources
 
-- https://www.flickr.com/photos/gdsteam/14060957152
-- https://www.alexandercowan.com/agile-team-charters-the-basics/
-- https://www.smartfile.com/blog/agile-team-charter/
 - https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained
 
 ## Values
@@ -199,4 +196,4 @@ The Theory of Constraints says that in any system there is one constraint at a t
 
 ## License
 
-The Team Charter is licensed under the [MIT License](LICENSE).
+Summary-Extreme-Programming-Explained is licensed under the [MIT License](LICENSE).
