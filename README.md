@@ -94,7 +94,7 @@ Practices are the kind of things you'll see teams doing day-to-day. Practices by
 
 - **Sit together**
 
-Develop in an open space big enough for the whole team. Meet the need for privacy and "owned" space by having small private spaces nearby or by limiting work hours so team members can get their privacy needs met elsewhere.
+  Develop in an open space big enough for the whole team. Meet the need for privacy and "owned" space by having small private spaces nearby or by limiting work hours so team members can get their privacy needs met elsewhere.
 
 - **Whole team**
 
