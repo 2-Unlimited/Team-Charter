@@ -147,7 +147,7 @@ Practices are the kind of things you'll see teams doing day-to-day. Practices by
 
 - **Continuous Integration**
 
- Integrate and test changes after each check-in. The longer you wait to integrate, the more it costs and the more unpredictable the cost becomes. Integrate and build a complete product. Continuous integration should be complete enough that the eventual first deployment of the system is no big deal.
+  Integrate and test changes after each check-in. The longer you wait to integrate, the more it costs and the more unpredictable the cost becomes. Integrate and build a complete product. Continuous integration should be complete enough that the eventual first deployment of the system is no big deal.
 
 - **TDD**
 
